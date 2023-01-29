@@ -1,4 +1,6 @@
-# Leaderboard
+# [# JWoC-2022](https://jwoc.tech/)
+
+## Leaderboard
 > https://leaderboard.jwoc.tech/
 
 **Name:**           Raja Majumdar <br>
@@ -28,3 +30,20 @@
 | 17 | https://github.com/smaranjitghose/indokhaadyam/pull/56 | Hard | 1 | 
 | 18 | https://github.com/smaranjitghose/indokhaadyam/pull/55 | Easy | 1 | 
 | 19 | https://github.com/smaranjitghose/indokhaadyam/pull/45 | Hard | 1
+
+# [# GSSoC'22](https://gssoc.girlscript.tech/)
+
+- https://github.com/Tech-Squad-Community/techsquad-community-website
+
+# [# RocketChat](https://github.com/RocketChat)
+
+- https://github.com/RocketChat/RC4Conferences/pull/58
+- https://github.com/RocketChat/RC4Conferences/pull/71
+
+# [# Resourcio-Community](https://github.com/orgs/Resourcio-Community/repositories)
+- https://github.com/Resourcio-Community/Resourcio_Community-Website/commit/20af59c2409d65d48841ff7d02bff0eb6994300e
+
+# [# STANDCON-CTF-2022](https://github.com/div0-n0h4ts/STANDCON-CTF-2022/tree/r3yc0n1c_DA)
+
+- https://github.com/div0-n0h4ts/STANDCON-CTF-2022/tree/r3yc0n1c_DA
+- https://github.com/div0-n0h4ts/STANDCON-CTF-2022-Writeups/tree/main/crypto
