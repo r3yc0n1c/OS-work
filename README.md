@@ -1,7 +1,7 @@
-# [# JWoC-2022](https://jwoc.tech/)
+# [Apertre 2023](https://os.apertre.tech/)
+- [All commits ↗️](https://github.com/RocketChat/RC4Conferences/commits?author=r3yc0n1c)
 
-## Leaderboard
-> https://leaderboard.jwoc.tech/
+# [# JWoC-2022](https://jwoc.tech/)
 
 **Name:**           Raja Majumdar <br>
 **Total Points:**   57 <br>
@@ -33,7 +33,7 @@
 
 # [# GSSoC'22](https://gssoc.girlscript.tech/)
 
-- https://github.com/Tech-Squad-Community/techsquad-community-website
+- [All commits ↗️](https://github.com/Tech-Squad-Community/techsquad-community-website/commits?author=r3yc0n1c)
 
 # [# RocketChat](https://github.com/RocketChat)
 
