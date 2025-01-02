@@ -1,13 +1,42 @@
-# [Apertre 2023](https://os.apertre.tech/)
-- [All commits ↗️](https://github.com/RocketChat/RC4Conferences/commits?author=r3yc0n1c)
+### Debian ([Uutils](https://github.com/uutils))
+- https://github.com/uutils/procps/pull/292
 
-# [# JWoC-2022](https://jwoc.tech/)
+### [GoogleChrome](https://github.com/GoogleChrome)
+- https://github.com/GoogleChrome/chromium-dashboard/pull/3725
+
+### [RocketChat](https://github.com/RocketChat)
+- https://github.com/RocketChat/EmbeddedChat/pull/682
+- https://github.com/RocketChat/RC4Conferences/pull/58
+- https://github.com/RocketChat/RC4Conferences/pull/71
+
+### [AsyncAPI](https://github.com/asyncapi/)
+- https://github.com/asyncapi/conference-website/pull/460
+- https://github.com/asyncapi/conference-website/pull/501
+
+### [JSON Schema](https://github.com/json-schema-org)
+- https://github.com/json-schema-org/website/pull/1152
+
+### https://github.com/gdgcloudkol
+- https://github.com/gdgcloudkol/gallery/pull/3
+- https://github.com/gdgcloudkol/ccd2024/pull/7
+- https://github.com/gdgcloudkol/ccd2024/commits/main/?author=r3yc0n1c
+
+### [Cutter](https://github.com/rizinorg/cutter)
+- https://github.com/rizinorg/cutter/pull/3318
+
+### [Cutter.re](https://github.com/rizinorg/cutter.re)
+- https://github.com/rizinorg/cutter.re/pull/54
+
+### [Apertre 2023](https://os.apertre.tech/)
+- https://github.com/Resourcio-Community/apertre/commits?author=r3yc0n1c
+
+### [JWoC-2022](https://jwoc.tech/)
 
 **Name:**           Raja Majumdar <br>
 **Total Points:**   57 <br>
 **Total PR Count:** 19 <br>
 
-## PR Links:
+#### PR Links:
 
 |Sr. No. | PR Link | Difficulty | Phase |
 | :----: | :---:   |    :----:  | :---: |
@@ -31,19 +60,12 @@
 | 18 | https://github.com/smaranjitghose/indokhaadyam/pull/55 | Easy | 1 | 
 | 19 | https://github.com/smaranjitghose/indokhaadyam/pull/45 | Hard | 1
 
-# [# GSSoC'22](https://gssoc.girlscript.tech/)
+### [GSSoC'22](https://gssoc.girlscript.tech/)
+- https://github.com/Tech-Squad-Community/techsquad-community-website/commits?author=r3yc0n1c
 
-- [All commits ↗️](https://github.com/Tech-Squad-Community/techsquad-community-website/commits?author=r3yc0n1c)
+### [Resourcio-Community](https://github.com/orgs/Resourcio-Community/repositories)
+- https://github.com/Resourcio-Community/Resourcio_Community-Website/commits?author=r3yc0n1c
 
-# [# RocketChat](https://github.com/RocketChat)
-
-- https://github.com/RocketChat/RC4Conferences/pull/58
-- https://github.com/RocketChat/RC4Conferences/pull/71
-
-# [# Resourcio-Community](https://github.com/orgs/Resourcio-Community/repositories)
-- https://github.com/Resourcio-Community/Resourcio_Community-Website/commit/20af59c2409d65d48841ff7d02bff0eb6994300e
-
-# [# STANDCON-CTF-2022](https://github.com/div0-n0h4ts/STANDCON-CTF-2022/tree/r3yc0n1c_DA)
-
+### [STANDCON-CTF-2022](https://github.com/div0-n0h4ts/STANDCON-CTF-2022/tree/r3yc0n1c_DA)
 - https://github.com/div0-n0h4ts/STANDCON-CTF-2022/tree/r3yc0n1c_DA
 - https://github.com/div0-n0h4ts/STANDCON-CTF-2022-Writeups/tree/main/crypto
