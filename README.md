@@ -12,6 +12,8 @@
 ### [AsyncAPI](https://github.com/asyncapi/)
 - https://github.com/asyncapi/conference-website/pull/460
 - https://github.com/asyncapi/conference-website/pull/501
+- https://github.com/asyncapi/conference-website/pull/496
+- https://github.com/asyncapi/website/pull/3562
 
 ### [JSON Schema](https://github.com/json-schema-org)
 - https://github.com/json-schema-org/website/pull/1152
