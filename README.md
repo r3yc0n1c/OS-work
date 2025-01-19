@@ -1,3 +1,13 @@
+### FOSSASIA
+- [**eventyay-tickets**](https://github.com/fossasia/eventyay-tickets):
+  - https://github.com/fossasia/eventyay-tickets/pull/513
+
+- [**eventyay-talk**](https://github.com/fossasia/eventyay-talk):
+  - https://github.com/fossasia/eventyay-talk/pull/260
+
+- [**eventyay-video**](https://github.com/fossasia/eventyay-video):
+  - https://github.com/fossasia/eventyay-video/pull/304
+
 ### Debian ([Uutils](https://github.com/uutils))
 - https://github.com/uutils/procps/pull/292
 
