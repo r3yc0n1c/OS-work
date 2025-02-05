@@ -1,6 +1,7 @@
 ### FOSSASIA
 - [**eventyay-tickets**](https://github.com/fossasia/eventyay-tickets):
   - https://github.com/fossasia/eventyay-tickets/pull/513
+  - https://github.com/fossasia/eventyay-tickets/pull/529
 
 - [**eventyay-talk**](https://github.com/fossasia/eventyay-talk):
   - https://github.com/fossasia/eventyay-talk/pull/260
