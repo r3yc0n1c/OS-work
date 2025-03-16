@@ -9,16 +9,19 @@
 - [**eventyay-video**](https://github.com/fossasia/eventyay-video):
   - https://github.com/fossasia/eventyay-video/pull/304
 
+### [RocketChat](https://github.com/RocketChat)
+- https://github.com/RocketChat/EmbeddedChat/pull/682
+- https://github.com/RocketChat/RC4Conferences/pull/58
+- https://github.com/RocketChat/RC4Conferences/pull/71
+
+### [JoinMarket-webui/Jam](https://github.com/joinmarket-webui/jam)
+- https://github.com/joinmarket-webui/jam/pull/879
+
 ### Debian ([Uutils](https://github.com/uutils))
 - https://github.com/uutils/procps/pull/292
 
 ### [GoogleChrome](https://github.com/GoogleChrome)
 - https://github.com/GoogleChrome/chromium-dashboard/pull/3725
-
-### [RocketChat](https://github.com/RocketChat)
-- https://github.com/RocketChat/EmbeddedChat/pull/682
-- https://github.com/RocketChat/RC4Conferences/pull/58
-- https://github.com/RocketChat/RC4Conferences/pull/71
 
 ### [AsyncAPI](https://github.com/asyncapi/)
 - https://github.com/asyncapi/conference-website/pull/460
@@ -29,7 +32,7 @@
 ### [JSON Schema](https://github.com/json-schema-org)
 - https://github.com/json-schema-org/website/pull/1152
 
-### https://github.com/gdgcloudkol
+### [GDG Cloud Kolkata](https://github.com/gdgcloudkol)
 - https://github.com/gdgcloudkol/gallery/pull/3
 - https://github.com/gdgcloudkol/ccd2024/pull/7
 - https://github.com/gdgcloudkol/ccd2024/commits/main/?author=r3yc0n1c
